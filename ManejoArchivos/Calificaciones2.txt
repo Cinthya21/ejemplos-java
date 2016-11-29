@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+Dayana;Medina;5;18
+Joselyn;Jimenez;20;20
+Ana; Castillo;13;1
