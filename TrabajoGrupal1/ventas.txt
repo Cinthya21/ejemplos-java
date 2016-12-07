@@ -1,0 +1,14 @@
+
+
+--- COMERCIAL VENTAS Y REVENTAS ---
+Nombre: dd
+Ciudad: ddd
+----------------------------------------
+PRODUCTO	CANTIDAD	PRECIO
+Aceite     		5		6,50
+Aceite     		7		9,10
+----------------------------------------
+				Subtotal: 15,60
+ 				IVA 14:    2,18 
+ 				Total:    17,78
+-----------------------------------------
